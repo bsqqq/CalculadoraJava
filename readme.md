@@ -1,1 +1,1 @@
-Olá, essa é minha clculadora que fiz com Java, espero que goste!
+Olá, essa é minha calculadora que fiz com Java, espero que goste!
